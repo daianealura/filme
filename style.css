@@ -12,6 +12,13 @@ h2 {
 text-align: center;
 }
 .cartaz{
-    width: 12%;
+    width: 50%;
     height: 12em;
+}
+.cartaz-todos{
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+    }
+.link{
+    
 }
