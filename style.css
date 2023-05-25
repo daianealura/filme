@@ -20,5 +20,15 @@ display: grid;
 grid-template-columns: 25% 25% 25% 25%;
     }
 .link{
-    
+   color: rgb(0, 1, 2); 
+   font-size: 20px;
 }
+
+    .imagem-informacao{
+width: 20%;
+    }
+.texto-informacao{
+color: rgb(0, 0, 0);
+font-family:Lobster;
+
+    }
